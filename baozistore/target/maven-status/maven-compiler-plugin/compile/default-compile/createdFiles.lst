@@ -1,0 +1,10 @@
+baozistore\model\Produto.class
+baozistore\controller\ProdutoController.class
+baozistore\model\Cliente.class
+baozistore\BaozistoreApplication.class
+baozistore\repository\ProdutoRepository.class
+baozistore\controller\PedidoController.class
+baozistore\repository\PedidoRepository.class
+baozistore\controller\ClienteController.class
+baozistore\model\Pedido.class
+baozistore\repository\ClienteRepository.class
